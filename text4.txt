@@ -1,0 +1,16 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 8CDE-CA03
+
+ Directory of D:\GitFolder
+
+05-05-2020  12:04    <DIR>          .
+05-05-2020  12:04    <DIR>          ..
+04-05-2020  11:19                 0 First.txt
+05-05-2020  11:43               506 HelloWorld.class
+05-05-2020  11:43               170 HelloWorld.java
+04-05-2020  12:04               412 second.txt
+05-05-2020  11:43               423 test.txt
+05-05-2020  12:04                 0 text4.txt
+04-05-2020  12:04               423 third.txt
+               7 File(s)          1,934 bytes
+               2 Dir(s)  283,461,693,440 bytes free
